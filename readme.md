@@ -29,5 +29,6 @@ E COMMERCE PEQUEÑO DEDICADO A LA COMERCIALIZACION DE ARTICULOS PARA COMPUTACION
 # INSTALACION DEL REPOSITORIO
 
 ```bash
-* git clone 
+* git clone https://github.com/Joaquinalt97/Entrega-final-Javascript.git
+
 ```# Entrega-final-Javascript
