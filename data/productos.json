@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ryzen 5",
+        "precio": 98000,
+        "img": "../image/amd ryzen 5.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ryzen 7",
+        "precio": 160000,
+        "img": "../image/amd ryzen 7.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Ryzen 9",
+        "precio": 270000,
+        "img": "../image/amd ryzen 9.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Asus Tuf Gaming",
+        "precio": 160000,
+        "img": "../image/Comeros-ASUS-90MB19Y0-M0EAY0-5f77f1-1000x1000.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Asus Prime B450M",
+        "precio": 145000,
+        "img": "../image/Comeros-ASUS-AM4-PRIME-B450M-A-II-CSM-BOX-M-ATX-1000x1000.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Intel Core i5 Ultra",
+        "precio": 160000,
+        "img": "../image/intel ultra 5.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Intel I7",
+        "precio": 195000,
+        "img": "../image/intel core i7.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Intel I9",
+        "precio": 234000,
+        "img": "../image/intel core i9.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Combo Memoria Ram 16GB",
+        "precio": 106000,
+        "img": "../image/Memoria-32-GB-2X16-GB-DDR4-3200-Mhz-Hiksemi-Future-RGB-1000x1000.jpg"
+    }
+]

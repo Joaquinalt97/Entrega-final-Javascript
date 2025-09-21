@@ -1,0 +1,65 @@
+main {
+    background-image: url(./image/fondo/5053309.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+
+header {
+    background: #222;
+    color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.card {
+    background: rgb(121, 121, 121);
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 6px;
+}
+
+button {
+    background: #008CBA;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #005f73;
+}
+
+#carrito {
+    padding: 1rem;
+    background: #fff;
+    border-top: 2px solid #222;
+}
+
+.oculto {
+    display: none;
+}
