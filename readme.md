@@ -7,9 +7,9 @@ E COMMERCE PEQUEÑO DEDICADO A LA COMERCIALIZACION DE ARTICULOS PARA COMPUTACION
 
 ---
 
-* Carrito de compras funcional
-* Almacenamiento en Local Storage
-* Diseño Responsive
+* Carrito de compras funcional.
+* Almacenamiento en Local Storage.
+* Diseño Responsive.
 
 # TECNOLOGIAS
 
