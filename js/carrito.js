@@ -34,7 +34,7 @@ function actualizarCarrito() {
         li.textContent = `${item.nombre} - $${item.precio}`;
 
         const btnEliminar = document.createElement("button");
-        btnEliminar.textContent = "❌";
+        btnEliminar.textContent = "X";
         btnEliminar.onclick = () => eliminarDelCarrito(index);
 
         li.appendChild(btnEliminar);

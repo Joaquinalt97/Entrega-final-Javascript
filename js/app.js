@@ -21,14 +21,12 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         });
 
-    // Mostrar/ocultar carrito
     btnVerCarrito.addEventListener("click", () => {
         carritoSeccion.classList.toggle("oculto");
     });
 
-    // Vaciar carrito
     btnVaciar.addEventListener("click", vaciarCarrito);
 
-    // Cargar carrito al iniciar
+
     actualizarCarrito();
 });
