@@ -6,7 +6,7 @@ function guardarCarrito() {
 
 
 function agregarAlCarrito(id) {
-    const producto = productos.find(p => p.id === id);
+    const producto = productos.find(producto => producto.id === id);
     carrito.push(producto);
     guardarCarrito();
     actualizarCarrito();
