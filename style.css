@@ -37,6 +37,15 @@ header {
     text-align: center;
 }
 
+h3 {
+    color: #ffffff;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
 .card img {
     max-width: 100%;
     border-radius: 6px;
